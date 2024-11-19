@@ -12,7 +12,6 @@ This project involves analyzing music metrics and streaming trends using SQL. Th
 - `schema/`: SQL script for table creation.
 - `queries/`: SQL scripts for both basic and advanced queries.
 - `data/`: Example CSV file of the data used.
-- `visuals/`: Screenshots or images showing query results (optional).
 
 ## Example Queries
 ### 1. Find Top 10 Tracks by Weighted Metrics
