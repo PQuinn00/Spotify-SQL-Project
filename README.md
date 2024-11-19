@@ -1,4 +1,4 @@
-# Spotify Portfolio Project 🎵
+# Spotify SQL Portfolio Project 🎵
 
 ## Project Overview
 This project involves analyzing music metrics and streaming trends using SQL. The dataset includes attributes like artist, track, album, and metrics such as danceability, energy, and views.
